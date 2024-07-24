@@ -3,6 +3,7 @@ Este repositorio sirve como seguimiento de lo que estaré aprendiendo referente 
 
 Recursos utilizados:
 * https://www.youtube.com/watch?v=rro5t8eHXaY&t=6025s
+* https://www.youtube.com/watch?v=opJgMj1IUrc&list=LL&index=1&t=3s
 
 Conocimientos adquiridos:
 * Formato de celdas.
@@ -17,3 +18,4 @@ Conocimientos adquiridos:
 * XLOOKUP
 * Sentencias IF
 * Macros.
+* Creación de Dashboard
